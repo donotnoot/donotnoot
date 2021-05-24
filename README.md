@@ -1,1 +1,1 @@
-https://sr.ht/~donotnoot
+https://git.sr.ht/~donotnoot
